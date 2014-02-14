@@ -1,0 +1,79 @@
+[{
+    "1":{
+        "day": "Montag",
+        "frontend": "",
+        "backend": ""
+    },
+    "2":{
+        "day": "Dienstag",
+        "frontend": "",
+        "backend": ""
+    },
+    "3":{
+        "day": "Mittwoch",
+        "frontend": "",
+        "backend": ""
+    },
+    "4":{
+        "day": "Donnerstag",
+        "frontend": "",
+        "backend": ""
+    },
+    "5":{
+        "day": "Freitag",
+        "frontend": "",
+        "backend": ""
+    }
+},{
+    "1":{
+        "day": "Montag",
+        "frontend": "",
+        "backend": ""
+    },
+    "2":{
+        "day": "Dienstag",
+        "frontend": "",
+        "backend": ""
+    },
+    "3":{
+        "day": "Mittwoch",
+        "frontend": "",
+        "backend": ""
+    },
+    "4":{
+        "day": "Donnerstag",
+        "frontend": "",
+        "backend": ""
+    },
+    "5":{
+        "day": "Freitag",
+        "frontend": "",
+        "backend": ""
+    }
+},{
+    "1":{
+        "day": "Montag",
+        "frontend": "",
+        "backend": ""
+    },
+    "2":{
+        "day": "Dienstag",
+        "frontend": "",
+        "backend": ""
+    },
+    "3":{
+        "day": "Mittwoch",
+        "frontend": "",
+        "backend": ""
+    },
+    "4":{
+        "day": "Donnerstag",
+        "frontend": "",
+        "backend": ""
+    },
+    "5":{
+        "day": "Freitag",
+        "frontend": "",
+        "backend": ""
+    }
+}]
